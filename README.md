@@ -1,2 +1,2 @@
 # pad
-depolyement kubernets
+depolyement kubernets jenkins
