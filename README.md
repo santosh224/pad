@@ -1,1 +1,2 @@
 # pad
+depolyement kubernets
